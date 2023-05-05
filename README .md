@@ -11,8 +11,6 @@ Feel free to fork this repository to make your own version of the project , and 
 
 ## 🛠 Get started
 
-## simulations
-
 ### Componets 
   - LCD (I2C)
   - photoresistor
