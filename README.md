@@ -19,7 +19,7 @@ Feel free to fork this repository to make your own version of the project , and 
   - servo motor
   - Jumper wires
 
-## actual project
+## 🎛️ actual project
 
 ![](https://imagizer.imageshack.com/img924/8852/HdswtD.png)
 
